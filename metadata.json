@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Bilingual Paragraph Generator",
+  "description": "An application to generate bilingual (English-Vietnamese) paragraphs based on IELTS band level and word count. It highlights key phrases and allows users to save vocabulary words to enhance their learning experience.",
+  "requestFramePermissions": []
+}
